@@ -1,5 +1,5 @@
 # dotnet-dynamodb-duplicate-prevention
-.NET で 重複キー登録をチェックするサンプル
+.NET で DynamoDB の重複キー登録をチェックするサンプル
 
 ## Feature
 - .NET8
